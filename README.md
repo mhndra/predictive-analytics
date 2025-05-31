@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Mahendra Nabiha Wisnu Aditya
+# Laporan Proyek Machine Learning - Mahendra Nabiha
 
 ## Domain Proyek
 
