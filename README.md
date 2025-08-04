@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Predictive Maintenance
+# Pemeliharaan Prediktif pada Mesin CNC Berbasis Data Menggunakan Machine Learning Klasifikasi Terjadi Kegagalan Mesin atau Tidak Terjadi Kegagalan Mesin
 
 ## Domain Proyek
 
