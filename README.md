@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Mahendra Nabiha
+# Laporan Proyek Machine Learning - Predictive Maintenance
 
 ## Domain Proyek
 
